@@ -76,7 +76,7 @@ const Order = () => {
       <tr>
         <th>
           <label>
-            <input type="checkbox" className="checkbox" />
+          <p>Delete</p>
           </label>
         </th>
         <th>Name</th>
